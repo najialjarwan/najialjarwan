@@ -7,36 +7,13 @@ Currently exploring, learning, and building new projects
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=700&lines=Building+clean+and+maintainable+web+applications;Focused+on+thoughtful+UI+and+good+architecture;Always+learning+and+improving" />
 </p>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-These projects represent the type of work I enjoy building.
-
-### Project One
-Short description of the project and the problem it solves.
-
-**Tech:** React • Tailwind • Firebase  
-**Demo:** LINK_HERE  
-**Repository:** REPO_LINK_HERE  
-
----
-
-### Project Two
-Short description highlighting the main idea of the project.
-
-**Tech:** STACK_HERE  
-**Demo:** LINK_HERE  
-**Repository:** REPO_LINK_HERE  
-
----
-
-### Project Three
-Short description emphasizing the most interesting feature.
-
-**Tech:** STACK_HERE  
-**Demo:** LINK_HERE  
-**Repository:** REPO_LINK_HERE  
-
----
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [Ma7ali **(Full-Stack)**](https://github.com/najialjarwan/Ma7ali) | Built POS PWA for small businesses | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="20"/> | [N/A]() |
+| [3legant **(Front-End)**](https://github.com/najialjarwan/3legant) | Modular e-commerce architecture | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20"/> | [N/A]() |
+| [Fitnesso **(Full-Stack)**](https://github.com/najialjarwan/Fitnesso) | Simple fitness tracking website | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20"/> ![InfinityFree](https://img.shields.io/badge/InfinityFree-0D98BA?style=flat-square&logo=infinityfree&logoColor=white) | [View](https://fitnesso.ct.ws/) |
 
 # 🧰 Tech Focus
 
