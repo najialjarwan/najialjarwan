@@ -36,6 +36,13 @@
 
 </div>
 
+## 🌍 Quick Facts
+
+- 22 years old, Born in **Syria**, currently based in **Lebanon**
+- I speak English, Arabic and I"m currently learning Spanish
+- Computer Science graduate
+- Fast typist (~150 WPM)
+- Interested in building thoughtful digital products
 ## 📊 Activities
 
 <div>
@@ -48,25 +55,16 @@
 
 </div>
 
-## 🌍 Quick Facts
-
-- 22 years old, Born in **Syria**, currently based in **Lebanon**
-- I speak English, Arabic and I"m currently learning Spanish
-- Computer Science graduate
-- Fast typist (~150 WPM)
-- Interested in building thoughtful digital products
-
-
 ## 🔗 **Connect With Me:**
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/_-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://najialjarwan.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/_-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/najialjarwan/)
-[![Email](https://img.shields.io/badge/_-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najialjarwanyt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/_-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najialjarwan)
-[![Telegram](https://img.shields.io/badge/_-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+96170504841)
-[![Instagram](https://img.shields.io/badge/_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najialjarwan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://najialjarwan.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/najialjarwan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najialjarwanyt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najialjarwan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+96170504841)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najialjarwan/)
 
 </div>
 
