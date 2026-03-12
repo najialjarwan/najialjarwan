@@ -60,7 +60,7 @@
 <p align="center">
 
 <a href="https://najialjarwan.vercel.app/">
-  <img src="./assets/icons/global.svg" height="35">
+  <img src="./assets/icons/global.svg" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;
 
