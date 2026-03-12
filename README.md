@@ -49,9 +49,9 @@ Currently exploring, learning, and building new projects
 
 <div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your-username/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true)
 
 </div>
 
