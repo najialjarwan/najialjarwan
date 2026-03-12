@@ -65,7 +65,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/najialjarwan">
-  <img src="./assets/icons/linkedin.svg" height="28">
+  <img src="./assets/icons/linkedin.svg" height="40">
 </a>
 &nbsp;&nbsp;&nbsp;
 
