@@ -20,7 +20,8 @@
 - UI implemented from a Figma design system.
 - Focus of the project was building a modular React architecture and reusable components.
 
-<img src="./assets/images/3legant-ui.png" />
+<img src="./assets/images/3legant-ui-1.png" />
+<img src="./assets/images/3legant-ui-2.png" />
 
 ## 🛠️ Techs I Use/Used
 
