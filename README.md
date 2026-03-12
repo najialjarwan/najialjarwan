@@ -17,7 +17,7 @@
 
 ## 🛠️ Techs I Use/Used
 
-<div align="left">
+<div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@
 
 ## 📊 Activities
 
-<div align="center">
+<div>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
