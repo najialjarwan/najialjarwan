@@ -38,17 +38,15 @@
 
 ## 📊 Activities
 
-<p>
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
+<div>
   
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialjarwan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/najialjarwan/)
+<img width="300" src="https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight"/>
+  
+<img width="300" src="https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true)
-
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight)
-</p>
+</div>
 
 ## 🌍 Quick Facts
 
@@ -64,6 +62,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://najialjarwan.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/najialjarwan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najialjarwanyt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najialjarwan)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+96170504841)
