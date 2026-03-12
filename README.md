@@ -60,32 +60,32 @@
 <p align="center">
 
 <a href="https://najialjarwan.vercel.app/">
-  <img src="./assets/icons/global.svg" height="50">
+  <img src="./assets/icons/global.svg" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/najialjarwan">
-  <img src="./assets/icons/linkedin.svg" height="50">
+  <img src="./assets/icons/linkedin.svg" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/najialjarwan/">
-  <img src="./assets/icons/leetcode.svg" height="28">
+  <img src="./assets/icons/leetcode.svg" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:najialjarwanyt@gmail.com">
-  <img src="./assets/icons/gmail.svg" height="28">
+  <img src="./assets/icons/gmail.svg" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/+96170504841">
-  <img src="./assets/icons/telegram.svg" height="28">
+  <img src="./assets/icons/telegram.svg" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/najialjarwan/">
-  <img src="./assets/icons/instagram.svg" height="28">
+  <img src="./assets/icons/instagram.svg" height="35">
 </a>
 
 </p>
