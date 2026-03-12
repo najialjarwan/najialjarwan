@@ -60,12 +60,12 @@
 <p align="center">
 
 <a href="https://najialjarwan.vercel.app/">
-  <img src="./assets/icons/global.svg" height="28">
+  <img src="./assets/icons/global.svg" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/najialjarwan">
-  <img src="./assets/icons/linkedin.svg" height="40">
+  <img src="./assets/icons/linkedin.svg" height="50">
 </a>
 &nbsp;&nbsp;&nbsp;
 
