@@ -22,7 +22,7 @@
 - Focus of the project was building a modular React architecture and reusable components.
 
 <div align="center">
-  <img src="./assets/images/3legant-ui-1.png" width="600"/>
+  <img src="./assets/images/3legant-ui-1.png" width="700"/>
 </div>
 
 ## 🛠️ Techs I Use/Used
