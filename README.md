@@ -49,6 +49,8 @@
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialjarwan&layout=compact&theme=tokyonight&hide_border=true"/>
+
 <!-- <img src="https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight"/> -->
   
 <img src="https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true"/>
