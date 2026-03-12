@@ -75,7 +75,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:najialjarwanyt@gmail.com">
-  <img src="./assets/icons/gmail.svg" height="35">
+  <img src="./assets/icons/mail.svg" height="35">
 </a>
 &nbsp;&nbsp;&nbsp;
 
