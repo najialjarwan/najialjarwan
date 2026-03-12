@@ -60,32 +60,32 @@
 <p align="center">
 
 <a href="https://najialjarwan.vercel.app/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" height="28" fill="white"/>
+  <img src="./assets/icons/global.svg" height="28">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/najialjarwan">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="28" fill="white"/>
+  <img src="./assets/icons/linkedin.svg" height="28">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/najialjarwan/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="28" fill="white"/>
+  <img src="./assets/icons/leetcode.svg" height="28">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:najialjarwanyt@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="28" fill="white"/>
+  <img src="./assets/icons/gmail.svg" height="28">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/+96170504841">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" height="28" fill="white"/>
+  <img src="./assets/icons/telegram.svg" height="28">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/najialjarwan/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="28" fill="white"/>
+  <img src="./assets/icons/instagram.svg" height="28">
 </a>
 
 </p>
