@@ -20,8 +20,9 @@
 - UI implemented from a Figma design system.
 - Focus of the project was building a modular React architecture and reusable components.
 
-<img src="./assets/images/3legant-ui-1.png" />
-<img src="./assets/images/3legant-ui-2.png" />
+<div align="center">
+  <img src="./assets/images/3legant-ui-1.png" width="600"/>
+</div>
 
 ## 🛠️ Techs I Use/Used
 
@@ -51,18 +52,16 @@
 - Computer Science graduate
 - Fast typist (~150 WPM)
 - Interested in building thoughtful digital products
-## 📊 Activities
 
-<div align="center">
+<!-- <div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
-<!-- <img src="https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight"/> -->
+<img src="https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight"/>
   
 <img src="https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true"/>
 
-</div>
-
+</div> -->
 ## 🤝 Connect with me
 
 <div align="center">
@@ -79,5 +78,5 @@
 ---
 
 <p align="center">
-Thank you for visiting my profile. Feel free to explore my repositories.
+Feel free to explore my repositories
 </p>
