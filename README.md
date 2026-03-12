@@ -45,6 +45,16 @@ Currently exploring, learning, and building new projects
 
 </p>
 
+## 📊 LeetCode Activity
+
+<div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your-username/)
+
+</div>
+
 ## 🌍 Quick Facts
 
 - 22 years old, Born in **Syria**, currently based in **Lebanon**
