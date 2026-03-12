@@ -64,7 +64,7 @@
 
 ## 🔗 More About My Work
 
-For a deeper look at my projects, experience, and journey:
+For a deeper look at my projects and journey:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-link)
 
 
