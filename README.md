@@ -62,11 +62,11 @@
 - Fast typist (~150 WPM)
 - Interested in building thoughtful digital products
 
-## 🔗 More About My Work
+## 🌐 More About My Work
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-directon: row; justify-content: center; align-items: center; gap: 10px;">
   
-  <span style="font-size: 16px;">🔗 For a deeper look at my projects and journey:</span>
+  <span style="font-size: 16px;">For a deeper look at my projects and journey:</span>
   
   <a href="https://najialjarwan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
@@ -75,7 +75,7 @@
 </div>
 
 
-## **CONNECT WITH ME:**
+## 🔗 **Connect With Me:**
 
 <div align="center">
   
