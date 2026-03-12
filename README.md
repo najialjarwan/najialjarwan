@@ -55,37 +55,37 @@
 
 </div>
 
-## 🤝 **Connect with me**
+## 🤝 Connect with me
 
 <p align="center">
 
 <a href="https://najialjarwan.vercel.app/">
-<img src="https://cdn.simpleicons.org/googlechrome/white" height="28" title="Portfolio"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" height="28" fill="white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/najialjarwan">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="28" title="LinkedIn"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="28" fill="white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/najialjarwan/">
-<img src="https://cdn.simpleicons.org/leetcode/white" height="28" title="LeetCode"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="28" fill="white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:najialjarwanyt@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/white" height="28" title="Email"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="28" fill="white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://t.me/+96170504841">
-<img src="https://cdn.simpleicons.org/telegram/white" height="28" title="Telegram"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" height="28" fill="white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/najialjarwan/">
-<img src="https://cdn.simpleicons.org/instagram/white" height="28" title="Instagram"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="28" fill="white"/>
 </a>
 
 </p>
