@@ -1,7 +1,7 @@
 # 👋 Hi, I'm *Naji Aljarwan*
 
-Frontend-focused developer building structured, user-centered web applications  
-Currently exploring, learning, and building new projects
+-Frontend-focused developer building structured, user-centered web applications.  
+-Currently exploring, learning, and building new projects.
 
 <p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=700&lines=Building+clean+and+maintainable+web+applications;Focused+on+thoughtful+UI+and+good+architecture;Always+learning+and+improving" />
@@ -72,10 +72,10 @@ For a deeper look at my projects, experience, and journey:
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naji.aljarwan@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](your-telegram-url)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najialjarwanyt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najialjarwan)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+96170504841)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najialjarwan/)
 
 </div>
 
