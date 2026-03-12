@@ -55,18 +55,40 @@
 
 </div>
 
-## 🤝 **Connect With Me**
+## 🤝 **Connect with me**
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://najialjarwan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najialjarwan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06)](https://leetcode.com/najialjarwan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najialjarwanyt@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+96170504841)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najialjarwan/)
+<p align="center">
 
-</div>
+<a href="https://najialjarwan.vercel.app/">
+<img src="https://cdn.simpleicons.org/googlechrome/white" height="28" title="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/najialjarwan">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="28" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/najialjarwan/">
+<img src="https://cdn.simpleicons.org/leetcode/white" height="28" title="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:najialjarwanyt@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/white" height="28" title="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://t.me/+96170504841">
+<img src="https://cdn.simpleicons.org/telegram/white" height="28" title="Telegram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/najialjarwan/">
+<img src="https://cdn.simpleicons.org/instagram/white" height="28" title="Instagram"/>
+</a>
+
+</p>
 
 ---
 
