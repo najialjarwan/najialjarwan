@@ -45,7 +45,7 @@
 - Interested in building thoughtful digital products
 ## 📊 Activities
 
-<div>
+<div align="center">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
