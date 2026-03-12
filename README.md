@@ -39,7 +39,7 @@
 ## 🌍 Quick Facts
 
 - 22 years old, Born in **Syria**, currently based in **Lebanon**
-- I speak English, Arabic and I"m currently learning Spanish
+- I speak English, Arabic and I'm currently learning Spanish
 - Computer Science graduate
 - Fast typist (~150 WPM)
 - Interested in building thoughtful digital products
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-Thanks for visiting my profile. Feel free to explore my repositories.
+Thank you for visiting my profile. Feel free to explore my repositories.
 </p>
