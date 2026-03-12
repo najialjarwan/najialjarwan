@@ -15,6 +15,13 @@
 | [3legant **(Front-End)**](https://github.com/najialjarwan/3legant) | Modular e-commerce architecture | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20"/> | [N/A]() |
 | [Fitnesso **(Full-Stack)**](https://github.com/najialjarwan/Fitnesso) | Simple fitness tracking website | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20"/> ![InfinityFree](https://img.shields.io/badge/InfinityFree-0D98BA?style=flat-square&logo=infinityfree&logoColor=white) | [View](https://fitnesso.ct.ws/) |
 
+
+## ⭐ Project Highlight
+- UI implemented from a Figma design system.
+- Focus of the project was building a modular React architecture and reusable components.
+
+<img src="./assets/images/3legant-ui.png" />
+
 ## 🛠️ Techs I Use/Used
 
 <div>
