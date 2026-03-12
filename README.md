@@ -36,49 +36,34 @@
 
 </div>
 
-## 📊 GitHub Activity
+## 📊 Activities
 
 <p>
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
   
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialjarwan&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-## 📊 LeetCode Activity
-
-<div>
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/najialjarwan/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/najialjarwan?theme=nord&ext=heatmap&hide_border=true)
 
-</div>
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight)
+</p>
 
 ## 🌍 Quick Facts
 
 - 22 years old, Born in **Syria**, currently based in **Lebanon**
+- I speak English, Arabic and I"m currently learning Spanish
 - Computer Science graduate
 - Fast typist (~150 WPM)
 - Interested in building thoughtful digital products
-
-## 🌐 More About My Work
-
-<div align="center" style="display: flex; flex-directon: row; justify-content: center; align-items: center; gap: 10px;">
-  
-  <span style="font-size: 16px;">For a deeper look at my projects and journey:</span>
-  
-  <a href="https://najialjarwan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-  </a>
-  
-</div>
 
 
 ## 🔗 **Connect With Me:**
 
 <div align="center">
   
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://najialjarwan.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najialjarwanyt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najialjarwan)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+96170504841)
