@@ -49,7 +49,7 @@
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialjarwan&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najialjarwan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"/> -->
 
 <!-- <img src="https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight"/> -->
   
