@@ -2,6 +2,7 @@
 
 - Frontend-focused developer building structured, user-centered web applications
 - Currently focused on improving frontend architecture, performance, and UI design systems
+- Expanding expertise toward full-stack and application development roles
 
 <p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=700&lines=Building+clean+and+maintainable+web+applications;Focused+on+thoughtful+UI+and+good+architecture;Always+learning+and+improving" />
