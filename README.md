@@ -53,6 +53,7 @@
 - Computer Science graduate
 - Fast typist (~150 WPM)
 - Interested in building thoughtful digital products
+- Interested in everything tbh 😅
 
 <!-- <div align="center">
   
