@@ -10,11 +10,51 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| [Ma7ali **(Full-Stack)**](https://github.com/najialjarwan/Ma7ali) | POS PWA for managing small businesses | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="20"/> ||
-| [3legant **(Front-End)**](https://github.com/najialjarwan/3legant) | Modular e-commerce architecture | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20"/> |Coming Soon|
-| [Fitnesso **(Full-Stack)**](https://github.com/najialjarwan/Fitnesso) | Simple fitness tracking website | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20"/> ![InfinityFree](https://img.shields.io/badge/InfinityFree-0D98BA?style=flat-square&logo=infinityfree&logoColor=white) | [View](https://fitnesso.ct.ws/) |
+<table>
+  <tr>
+    <td>Project</td>
+    <td>Description</td>
+    <td>Tech Stack</td>
+    <td>Live Demo</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/najialjarwan/Ma7ali">Ma7ali <strong>(Full-Stack)</strong></a></td>
+    <td>POS PWA for managing small businesses</td>
+    <td>
+      <img src="./assets/icons/html5.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+      <img src="./assets/icons/css3.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+      <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+      <img src="./assets/icons/firebase.svg" height="40" title="Firebase" />
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/najialjarwan/3legant">3legant <strong>(Front-End)</strong></a></td>
+    <td>Modular e-commerce architecture</td>
+    <td>
+      <img src="./assets/icons/html5.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+      <img src="./assets/icons/css3.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+      <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+      <img src="./assets/icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="./assets/icons/react.svg" height="40" title="React" />
+    </td>
+    <td>Coming Soon</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/najialjarwan/Fitnesso">Fitnesso <strong>(Full-Stack)</strong></a></td>
+    <td>Simple fitness tracking website</td>
+    <td>
+      <img src="./assets/icons/html5.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+      <img src="./assets/icons/css3.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+      <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+      <img src="./assets/icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;
+      <img src="./assets/icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;
+      <img src="./assets/icons/infinityfree.svg" height="40" title="Infinity Free" />
+    </td>
+    <td><a href="https://fitnesso.ct.ws/">View</a></td>
+  </tr>
+</table>
+
 
 
 ## ⭐ Project Highlight
@@ -29,7 +69,7 @@
 
 <table>
   <tr>
-    <td>Proficient in</td>
+    <td><strong>Proficient in</strong></td>
     <td>
       <img src="./assets/icons/html5.svg" height="40" title="HTML5" />&nbsp;&nbsp;
       <img src="./assets/icons/css3.svg" height="40" title="CSS3" />&nbsp;&nbsp;
@@ -39,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td>Experienced With</td>
+    <td><strong>Experienced With</strong></td>
     <td>
       <img src="./assets/icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;
       <img src="./assets/icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;
@@ -48,13 +88,13 @@
     </td>
   </tr>
   <tr>
-    <td>Familiar With</td>
+    <td></td>
     <td>
       <img src="./assets/icons/python.svg" height="40" title="Python" />
     </td>
   </tr>
   <tr>
-    <td>Tools</td>
+    <td><strong>Tools</strong></td>
     <td>
       <img src="./assets/icons/git.svg" height="40" title="Git" />&nbsp;&nbsp;
       <img src="./assets/icons/firebase.svg" height="40" title="Firebase" />&nbsp;&nbsp;
