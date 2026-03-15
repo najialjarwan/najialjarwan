@@ -88,7 +88,7 @@
     </td>
   </tr>
   <tr>
-    <td></td>
+    <td><strong>Familiar With</strong></td>
     <td>
       <img src="./assets/icons/python.svg" height="40" title="Python" />
     </td>
