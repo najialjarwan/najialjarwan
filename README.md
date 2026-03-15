@@ -31,20 +31,20 @@
   <tr>
     <td>Proficient in</td>
     <td>
-      <img src="./assets/icons/html5.svg" height="40" title="HTML5" />
-      <img src="./assets/icons/css3.svg" height="40" title="CSS3" />
-      <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />
-      <img src="./assets/icons/tailwindcss.svg" height="40" title="Tailwind CSS" />
-      <img src="./assets/icons/react.svg" height="40" title="React" />
+      <img src="./assets/icons/html5.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+      <img src="./assets/icons/css3.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+      <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+      <img src="./assets/icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="./assets/icons/react.svg" height="40" title="React" />&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td>Experienced With</td>
     <td>
-      <img src="./assets/icons/php.svg" height="40" title="PHP" />
-      <img src="./assets/icons/mysql.svg" height="40" title="MySQL" />
-      <img src="./assets/icons/java.svg" height="40" title="Java" />
-      <img src="./assets/icons/csharp.svg" height="40" title="CSharp" />
+      <img src="./assets/icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;
+      <img src="./assets/icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;
+      <img src="./assets/icons/java.svg" height="40" title="Java" />&nbsp;&nbsp;
+      <img src="./assets/icons/csharp.svg" height="40" title="CSharp" />&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
@@ -56,10 +56,10 @@
   <tr>
     <td>Tools</td>
     <td>
-      <img src="./assets/icons/git.svg" height="40" title="Git" />
-      <img src="./assets/icons/firebase.svg" height="40" title="Firebase" />
-      <img src="./assets/icons/vercel.svg" height="40" title="Vercel" />
-      <img src="./assets/icons/infinityfree.svg" height="40" title="Infinity Free" />
+      <img src="./assets/icons/git.svg" height="40" title="Git" />&nbsp;&nbsp;
+      <img src="./assets/icons/firebase.svg" height="40" title="Firebase" />&nbsp;&nbsp;
+      <img src="./assets/icons/vercel.svg" height="40" title="Vercel" />&nbsp;&nbsp;
+      <img src="./assets/icons/infinityfree.svg" height="40" title="Infinity Free" />&nbsp;&nbsp;
     </td>
   </tr>
 </table>
