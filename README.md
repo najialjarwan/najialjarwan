@@ -28,7 +28,7 @@
     <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />
     <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />
     <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="25" title="Firebase" />
-    <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="Firebase" />
+    <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="line" />
     <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />
     <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />
   </td>
