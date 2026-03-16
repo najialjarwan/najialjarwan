@@ -99,10 +99,10 @@
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />&nbsp;&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" />&nbsp;&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" />&nbsp;&nbsp;
-      <img src="./assets/icons/git.svg" height="40" title="Git" />&nbsp;&nbsp;
-      <img src="./assets/icons/firebase.svg" height="40" title="Firebase" />&nbsp;&nbsp;
-      <img src="./assets/icons/vercel.svg" height="40" title="Vercel" />&nbsp;&nbsp;
-      <img src="./assets/icons/infinityfree.svg" height="40" title="Infinity Free" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="40" title="Firebase" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="Infinity Free" />
     </td>
   </tr>
 </table>
