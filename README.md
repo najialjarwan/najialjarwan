@@ -79,7 +79,7 @@
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />&nbsp;&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript (ES6+)" />&nbsp;&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />&nbsp;&nbsp;
     </td>
