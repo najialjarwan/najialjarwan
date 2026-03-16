@@ -21,8 +21,8 @@
     <td><a href="https://github.com/najialjarwan/ma7ali">Ma7ali <strong>(Full-Stack)</strong></a></td>
     <td>POS PWA for managing small businesses</td>
     <td>
-      <img src="./assets/icons/html5.svg" height="25" title="HTML5" />&nbsp;
-      <img src="./assets/icons/css3.svg" height="25" title="CSS3" />&nbsp;
+      <img src="./assets/icons/html.svg" height="25" title="HTML5" />&nbsp;
+      <img src="./assets/icons/css.svg" height="25" title="CSS3" />&nbsp;
       <img src="./assets/icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
       <img src="./assets/icons/firebase.svg" height="25" title="Firebase" />
     </td>
@@ -32,8 +32,8 @@
     <td><a href="https://github.com/najialjarwan/3legant">3legant <strong>(Front-End)</strong></a></td>
     <td>Modular e-commerce architecture</td>
     <td>
-      <img src="./assets/icons/html5.svg" height="25" title="HTML5" />&nbsp;
-      <img src="./assets/icons/css3.svg" height="25" title="CSS3" />&nbsp;
+      <img src="./assets/icons/html.svg" height="25" title="HTML5" />&nbsp;
+      <img src="./assets/icons/css.svg" height="25" title="CSS3" />&nbsp;
       <img src="./assets/icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
       <img src="./assets/icons/tailwindcss.svg" height="25" title="Tailwind CSS" />&nbsp;
       <img src="./assets/icons/react.svg" height="25" title="React" />
@@ -44,8 +44,8 @@
     <td><a href="https://github.com/najialjarwan/fitnesso">Fitnesso <strong>(Full-Stack)</strong></a></td>
     <td>Simple fitness tracking website</td>
     <td>
-      <img src="./assets/icons/html5.svg" height="25" title="HTML5" />&nbsp;
-      <img src="./assets/icons/css3.svg" height="25" title="CSS3" />&nbsp;
+      <img src="./assets/icons/html.svg" height="25" title="HTML5" />&nbsp;
+      <img src="./assets/icons/css.svg" height="25" title="CSS3" />&nbsp;
       <img src="./assets/icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
       <img src="./assets/icons/mysql.svg" height="25" title="MySQL" />&nbsp;
       <img src="./assets/icons/php.svg" height="25" title="PHP" />&nbsp;
@@ -71,8 +71,8 @@
   <tr>
     <td><strong>Proficient in</strong></td>
     <td>
-      <img src="./assets/icons/html5.svg" height="40" title="HTML5" />&nbsp;&nbsp;
-      <img src="./assets/icons/css3.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+      <img src="./assets/icons/html.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+      <img src="./assets/icons/css.svg" height="40" title="CSS3" />&nbsp;&nbsp;
       <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
       <img src="./assets/icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
       <img src="./assets/icons/react.svg" height="40" title="React" />&nbsp;&nbsp;
