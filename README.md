@@ -18,7 +18,7 @@
     <td>Live Demo</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/najialjarwan/Ma7ali">Ma7ali <strong>(Full-Stack)</strong></a></td>
+    <td><a href="https://github.com/najialjarwan/ma7ali">Ma7ali <strong>(Full-Stack)</strong></a></td>
     <td>POS PWA for managing small businesses</td>
     <td>
       <img src="./assets/icons/html5.svg" height="25" title="HTML5" />&nbsp;
@@ -41,7 +41,7 @@
     <td>Coming Soon</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/najialjarwan/Fitnesso">Fitnesso <strong>(Full-Stack)</strong></a></td>
+    <td><a href="https://github.com/najialjarwan/fitnesso">Fitnesso <strong>(Full-Stack)</strong></a></td>
     <td>Simple fitness tracking website</td>
     <td>
       <img src="./assets/icons/html5.svg" height="25" title="HTML5" />&nbsp;
