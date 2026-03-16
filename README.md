@@ -32,7 +32,7 @@
     <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />&nbsp;
     <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />&nbsp;
   </td>
-    <td>N/A</td>
+  <td>N/A</td>
   </tr>
   <tr>
     <td><a href="https://github.com/najialjarwan/3legant">3legant <strong>(Front-End)</strong></a></td>
