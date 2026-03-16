@@ -21,10 +21,12 @@
     <td><a href="https://github.com/najialjarwan/ma7ali">Ma7ali <strong>(Full-Stack)</strong></a></td>
     <td>POS PWA for managing small businesses</td>
     <td>
-      <img src="./assets/icons/html.svg" height="25" title="HTML5" />&nbsp;
-      <img src="./assets/icons/css.svg" height="25" title="CSS3" />&nbsp;
-      <img src="./assets/icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
-      <img src="./assets/icons/firebase.svg" height="25" title="Firebase" />
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="25" title="HTML5" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="25" title="Firebase" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />
     </td>
     <td></td>
   </tr>
@@ -32,11 +34,14 @@
     <td><a href="https://github.com/najialjarwan/3legant">3legant <strong>(Front-End)</strong></a></td>
     <td>Modular e-commerce architecture</td>
     <td>
-      <img src="./assets/icons/html.svg" height="25" title="HTML5" />&nbsp;
-      <img src="./assets/icons/css.svg" height="25" title="CSS3" />&nbsp;
-      <img src="./assets/icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
-      <img src="./assets/icons/tailwindcss.svg" height="25" title="Tailwind CSS" />&nbsp;
-      <img src="./assets/icons/react.svg" height="25" title="React" />
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="25" title="HTML5" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="25" title="Tailwind CSS" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="25" title="React" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="25" title="Figma" />
     </td>
     <td>Coming Soon</td>
   </tr>
@@ -44,14 +49,15 @@
     <td><a href="https://github.com/najialjarwan/fitnesso">Fitnesso <strong>(Full-Stack)</strong></a></td>
     <td>Simple fitness tracking website</td>
     <td>
-      <img src="./assets/icons/html.svg" height="25" title="HTML5" />&nbsp;
-      <img src="./assets/icons/css.svg" height="25" title="CSS3" />&nbsp;
-      <img src="./assets/icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
-      <img src="./assets/icons/mysql.svg" height="25" title="MySQL" />&nbsp;
-      <img src="./assets/icons/php.svg" height="25" title="PHP" />&nbsp;
-      <img src="./assets/icons/infinityfree.svg" height="25" title="Infinity Free" />
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="25" title="HTML5" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="25" title="MySQL" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="25" title="PHP" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="25" title="Infinity Free" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />
     </td>
-    <td><a href="https://fitnesso.ct.ws/">View</a></td>
+    <td><a href="https://fitnesso.ct.ws/">Visit</a></td>
   </tr>
 </table>
 
@@ -71,26 +77,26 @@
   <tr>
     <td><strong>Proficient in</strong></td>
     <td>
-      <img src="./assets/icons/html.svg" height="40" title="HTML5" />&nbsp;&nbsp;
-      <img src="./assets/icons/css.svg" height="40" title="CSS3" />&nbsp;&nbsp;
-      <img src="./assets/icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
-      <img src="./assets/icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
-      <img src="./assets/icons/react.svg" height="40" title="React" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Experienced With</strong></td>
     <td>
-      <img src="./assets/icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;
-      <img src="./assets/icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;
-      <img src="./assets/icons/java.svg" height="40" title="Java" />&nbsp;&nbsp;
-      <img src="./assets/icons/csharp.svg" height="40" title="CSharp" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/java.svg" height="40" title="Java" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" />&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Familiar With</strong></td>
     <td>
-      <img src="./assets/icons/python.svg" height="40" title="Python" />
+      <img src="https://najialjarwan.vercel.app/external-icons/python.svg" height="40" title="Python" />
     </td>
   </tr>
   <tr>
