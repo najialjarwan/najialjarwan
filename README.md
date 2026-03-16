@@ -109,13 +109,7 @@
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />
-      <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" />
-      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" />
-      <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" />
-      <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="Infinity Free" />
-      <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="40" title="Firebase" />
-      <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" /> <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" /> <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" /> <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" /> <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="Infinity Free" /> <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="40" title="Firebase" /> <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />
     </td>
   </tr>
 </table>
