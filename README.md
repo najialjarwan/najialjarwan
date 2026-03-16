@@ -1,12 +1,15 @@
-# 👋 Hi, I'm *Naji Aljarwan*
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there, I'm *Naji Aljarwan*
+
 
 - Frontend-focused developer building structured, user-centered web applications
 - Currently focused on improving frontend architecture, performance, and UI design systems
 - Expanding expertise toward full-stack and application development roles
 
+
 <p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2E97F7&center=true&vCenter=true&width=700&lines=Building+clean+and+maintainable+web+applications;Focused+on+thoughtful+UI+and+good+architecture;Always+learning+and+improving" />
 </p>
+
 
 ## 🚀 Featured Projects
 
@@ -71,6 +74,7 @@
   <img src="./assets/images/3legant-ui-1.png" width="700"/>
 </div>
 
+
 ## 🛠️ Technologies
 
 <table>
@@ -132,20 +136,21 @@
 
 </div> -->
 
+
 ## 🤝 Connect with me
 
 <div align="center">
-
-<a href="https://najialjarwan.vercel.app/"><img src="./assets/icons/global.svg" height="50"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/najialjarwan"><img src="./assets/icons/linkedin.svg" height="50"></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/najialjarwan/"><img src="./assets/icons/leetcode.svg" height="50"></a>&nbsp;&nbsp;
-<a href="mailto:najialjarwanyt@gmail.com"><img src="./assets/icons/mail.svg" height="50"></a>&nbsp;&nbsp;
-<a href="https://t.me/+96170504841"><img src="./assets/icons/telegram.svg" height="50"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/najialjarwan/"><img src="./assets/icons/instagram.svg" height="50"></a>
-
+  <a href="https://najialjarwan.vercel.app/"><img src="./assets/icons/global.svg" height="50"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/najialjarwan"><img src="./assets/icons/linkedin.svg" height="50"></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/najialjarwan/"><img src="./assets/icons/leetcode.svg" height="50"></a>&nbsp;&nbsp;
+  <a href="mailto:najialjarwanyt@gmail.com"><img src="./assets/icons/mail.svg" height="50"></a>&nbsp;&nbsp;
+  <a href="https://t.me/+96170504841"><img src="./assets/icons/telegram.svg" height="50"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/najialjarwan/"><img src="./assets/icons/instagram.svg" height="50"></a>
 </div>
 
+
 ---
+
 
 <p align="center">
 Feel free to explore my repositories
