@@ -78,7 +78,7 @@
 </div>
 
 
-## 🛠️ Technologies
+## 🛠️ Techs & Tools
 
 <table>
   <tr>
