@@ -96,6 +96,7 @@
   <tr>
     <td><strong>Tools</strong></td>
     <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />&nbsp;&nbsp;
       <img src="./assets/icons/git.svg" height="40" title="Git" />&nbsp;&nbsp;
       <img src="./assets/icons/firebase.svg" height="40" title="Firebase" />&nbsp;&nbsp;
       <img src="./assets/icons/vercel.svg" height="40" title="Vercel" />&nbsp;&nbsp;
