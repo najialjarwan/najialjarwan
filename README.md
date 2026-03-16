@@ -36,7 +36,7 @@
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="25" title="HTML5" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript (ES6+)" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="25" title="Tailwind CSS" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="25" title="React" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />&nbsp;
@@ -52,8 +52,8 @@
       <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="25" title="HTML5" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="25" title="MySQL" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="25" title="PHP" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="25" title="MySQL" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="25" title="Infinity Free" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />
     </td>
