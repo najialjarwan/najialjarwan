@@ -45,6 +45,7 @@
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="25" title="React" />
       <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="Firebase" />
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />
+      <img src="https://najialjarwan.vercel.app/external-icons/vite.svg" height="25" title="Vite" />
       <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />
       <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="25" title="Figma" />
     </td>
@@ -84,32 +85,39 @@
   <tr>
     <td><strong>Proficient in</strong></td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript (ES6+)" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="40" title="HTML5" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="40" title="CSS3" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="40" title="JavaScript (ES6+)" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="40" title="Tailwind CSS" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="40" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Experienced With</strong></td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/java.svg" height="40" title="Java" />&nbsp;&nbsp;
-      <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="40" title="PHP" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="40" title="MySQL" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/java.svg" height="40" title="Java" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" />&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Familiar With</strong></td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/python.svg" height="40" title="Python" />&nbsp;&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/python.svg" height="40" title="Python" />&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" /> <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" /> <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" /> <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" /> <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="Infinity Free" /> <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="40" title="Firebase" /> <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />
+      <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="40" title="VS Code" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="40" title="Git" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/vite.svg" height="40" title="Vite" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/figma.svg" height="40" title="Figma" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="40" title="Infinity Free" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/firebase.svg" height="40" title="Firebase" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/vercel.svg" height="40" title="Vercel" />&nbsp;
     </td>
   </tr>
 </table>
