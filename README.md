@@ -120,7 +120,7 @@
 </table>
 
 
-## 🌍 Quick Facts
+## 🌍 About Me
 
 - 22 years old, Born in **Syria**, currently based in **Lebanon**
 - I speak English, Arabic and I'm currently learning Spanish
