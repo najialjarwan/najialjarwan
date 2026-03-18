@@ -43,7 +43,7 @@
       <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript (ES6+)" />
       <img src="https://najialjarwan.vercel.app/external-icons/tailwindcss.svg" height="25" title="Tailwind CSS" />
       <img src="https://najialjarwan.vercel.app/external-icons/react.svg" height="25" title="React" />
-      <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="Firebase" />
+      <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="Line" />
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />
       <img src="https://najialjarwan.vercel.app/external-icons/vite.svg" height="25" title="Vite" />
       <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />
@@ -52,19 +52,15 @@
     <td>Coming Soon</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/najialjarwan/fitnesso">Fitnesso <strong>(Full-Stack)</strong></a></td>
-    <td>Simple fitness tracking website</td>
+    <td><a href="https://github.com/najialjarwan/fitnesso">Github README Generator <strong>(Tool)</strong></a></td>
+    <td>CLI tool for generating structured GitHub README files</td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/html.svg" height="25" title="HTML5" />
-      <img src="https://najialjarwan.vercel.app/external-icons/css.svg" height="25" title="CSS3" />
-      <img src="https://najialjarwan.vercel.app/external-icons/javascript.svg" height="25" title="JavaScript" />
-      <img src="https://najialjarwan.vercel.app/external-icons/php.svg" height="25" title="PHP" />
-      <img src="https://najialjarwan.vercel.app/external-icons/mysql.svg" height="25" title="MySQL" />
-      <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="Firebase" />
-      <img src="https://najialjarwan.vercel.app/external-icons/infinityfree.svg" height="25" title="Infinity Free" />
+      <img src="https://najialjarwan.vercel.app/external-icons/nodejs.svg" height="25" title="Node JS" />
+      <img src="https://najialjarwan.vercel.app/external-icons/line.svg" height="25" title="Line" />
       <img src="https://najialjarwan.vercel.app/external-icons/vscode.svg" height="25" title="VS Code" />
+      <img src="https://najialjarwan.vercel.app/external-icons/git.svg" height="25" title="Git" />
     </td>
-    <td><a href="https://fitnesso.ct.ws/">Visit</a></td>
+    <td>N/A</td>
   </tr>
 </table>
 
