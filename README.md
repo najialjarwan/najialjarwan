@@ -101,6 +101,7 @@
     <td><strong>Familiar With</strong></td>
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/python.svg" height="40" title="Python" />&nbsp;
+      <img src="https://najialjarwan.vercel.app/external-icons/mss.svg" height="40" title="Microsoft SQL Server" />&nbsp;
       <img src="https://najialjarwan.vercel.app/external-icons/nodejs.svg" height="40" title="Node JS" />&nbsp;
     </td>
   </tr>
