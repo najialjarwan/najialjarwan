@@ -52,7 +52,7 @@
     <td>Coming Soon</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/najialjarwan/fitnesso">Github README Generator <strong>(Tool)</strong></a></td>
+    <td><a href="https://github.com/najialjarwan/github-readme-generator">Github README Generator <strong>(Tool)</strong></a></td>
     <td>CLI tool for generating structured GitHub README files</td>
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/nodejs.svg" height="25" title="Node JS" />
