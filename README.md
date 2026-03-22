@@ -123,7 +123,7 @@
 
 ## 🌍 About Me
 
-- 22 years old, Born in **Syria**, currently based in **Lebanon**
+- 22 years old, born in **Syria**, currently based in **Lebanon**
 - I speak English, Arabic and I'm currently learning Spanish
 - Computer Science graduate
 - Fast typist (~150 WPM)
