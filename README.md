@@ -131,7 +131,7 @@
 
 <!-- <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
+<img src="https://gith-readme-streak-stats.herokuapp.com/?user=najialjarwan&theme=tokyonight&hide_border=true"/>
 
 <img src="https://duolingo-stats-card.vercel.app/api?username=najialjarwan&sort=xp&theme=tokyonight"/>
   
